@@ -1,2 +1,2 @@
 # Kraven Zaqwa
- Kraven Zaqwa Modification Skin for Hyperion 7.1
+ Kraven Skin Zaqwa Modification for Hyperion 7.1
